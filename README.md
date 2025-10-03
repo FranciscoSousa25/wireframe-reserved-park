@@ -4,7 +4,7 @@ Wireframe One Page – Landing Page do app Reserved Park
 
 # Wireframe One Page - Reserved Park
 
-## bjetivo
+## objetivo
 criação de um wireframe de média fidelidade para uma única página (One Page) de algum produto à sua escolha. Esse produto pode ser qualquer coisa que você queira apresentar, como um aplicativo, uma página de vendas, ou um produto de aula
 
 ## Estrutura do wireframe
